@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SplitLog4netExample_NETCore/.vs
+/SplitLog4netExample_NETCore/SplitLog4netExample_NETCore/bin
+/.vs
+/SplitLog4netExample_NETCore/SplitLog4netExample_NETCore/obj
+/SplitLog4netExample_NETFramework/.vs/SplitLog4netExample_NETFramework/v15
+/SplitLog4netExample_NETFramework/packages
+/SplitLog4netExample_NETFramework/SplitLog4netExample_NETFramework/bin
+/SplitLog4netExample_NETFramework/SplitLog4netExample_NETFramework/obj
